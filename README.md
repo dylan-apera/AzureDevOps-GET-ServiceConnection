@@ -1,5 +1,5 @@
 # Azure DevOps Administration: Service Connection Management
-This project was established based on one key component, how do we managed the number of Azure DevOps service connections within a tenant. This Powershell script is the first step to understanding what we have in place within our Azure DevOps tenant.
+This project was established based on one key component, how do we manage the number of Azure DevOps service connections within a tenant. This Powershell script is the first step to understanding what we have in place within our Azure DevOps tenant, and will be a good first step to tidying your AzDO environment and hardening your security posture. 
 
 ## What you need
 1. You will need to install windows terminal or powershell to run this script. 
@@ -16,4 +16,5 @@ This project was established based on one key component, how do we managed the n
 
 
 
-## How it works
+## Disclaimer
+Even though I do work for Microsoft this content is not official Microsoft content. This repository was establish to help organisations manage their growing use of Azure DevOps and to make the lives of those who do manage it easier. 
